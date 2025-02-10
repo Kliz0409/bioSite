@@ -8,9 +8,17 @@ body {
 }
 /* Header Styles */
 header {
-    background: #284B63;
-    color: WHITE;
-    padding: 50px 20px;
+    background-image: url(Images/LESBIANS.png);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 nav {
 	background: #D9D9D9;
